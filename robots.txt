@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://egerocruto.github.io/sitemap
+Sitemap: https://egerocruto.github.io/app/sitemap
+Sitemap: https://egerocruto.github.io/assets/sitemap
+Sitemap: https://egerocruto.github.io/css/sitemap
+Sitemap: https://egerocruto.github.io/includes/sitemap
+Sitemap: https://egerocruto.github.io/item/sitemap
+Sitemap: https://egerocruto.github.io/src/sitemap
